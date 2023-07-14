@@ -11,6 +11,6 @@ while i < input + 1:
     starNum = "*       "
     i += 1
 
-print("\nDone")
+print("\nDone!")
 
 
